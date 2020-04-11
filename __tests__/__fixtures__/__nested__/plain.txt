@@ -1,0 +1,10 @@
+Property 'common.setting2' was deleted
+Property 'common.setting3' was changed. From true to [complex value]
+Property 'common.setting6.ops' was added with value: 'vops'
+Property 'common.follow' was added with value: false
+Property 'common.setting4' was added with value: 'blah blah'
+Property 'common.setting5' was added with value: [complex value]
+Property 'group1.baz' was changed. From 'bas' to 'bars'
+Property 'group1.nest' was changed. From [complex value] to 'str'
+Property 'group2' was deleted
+Property 'group3' was added with value: [complex value]
